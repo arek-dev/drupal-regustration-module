@@ -1,0 +1,7 @@
+singleregistration.registration_form:
+  path: '/registration'
+  defaults:
+    _form: '\Drupal\singleregistration\Form\SingleRegistrationForm'
+    _title: 'Employee registration form for an event'
+  requirements: 
+    _permission: 'custom_module_permission'

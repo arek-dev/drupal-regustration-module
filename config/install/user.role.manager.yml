@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - singleregistration
+id: manager
+label: 'Department manager'
+weight: 3
+is_admin: false
+permissions: {  }
