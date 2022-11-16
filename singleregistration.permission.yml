@@ -1,4 +1,0 @@
-access all views:
-  title: 'Single Registration settings'
-  description: 'A custom permission for your module settings page.'
-  restrict access: true
