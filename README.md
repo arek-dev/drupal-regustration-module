@@ -1,1 +1,1 @@
-# drupal-regustration-module
+# simple drupal-registration-module
